@@ -8,5 +8,5 @@ This is a Flask application that is set up and configured to work with a databas
 * flask-app/app.py
 
 ## Pictures
-![CommandsRan]()
+![CommandsRan](https://github.com/Finneyyy/Week7-docker-exercises/blob/main/networks/trio/commandsran.PNG)
 ![Running](https://github.com/Finneyyy/Week7-docker-exercises/blob/main/networks/trio/running.png)
