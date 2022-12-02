@@ -13,4 +13,4 @@ The `nginx.conf` file can be used to configure an NGINX container to run as a re
 * Dockerfile modified
 
 ## Pictures
-* commands run & docker running.png
+![Commands&running](https://github.com/Finneyyy/Week7-docker-exercises/blob/main/bind-mounts/duo/commands%20ran%26docker%20running.PNG)
