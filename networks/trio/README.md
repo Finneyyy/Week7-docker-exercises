@@ -9,4 +9,4 @@ This is a Flask application that is set up and configured to work with a databas
 
 ## Pictures
 ![CommandsRan]()
-![Running]()
+![Running](https://github.com/Finneyyy/Week7-docker-exercises/blob/main/networks/trio/running.png)
