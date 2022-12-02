@@ -11,3 +11,6 @@ The `nginx.conf` file can be used to configure an NGINX container to run as a re
 
 ## Changes made:
 * Dockerfile modified
+
+## Pictures
+* commands run & docker running.png
